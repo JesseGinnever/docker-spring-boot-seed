@@ -51,8 +51,7 @@ Find running containers
 ```
 dev\docker-spring-boot-seed\docker-spring-boot>docker ps -s
 CONTAINER ID        IMAGE                COMMAND                  CREATED              STATUS              PORTS                    NAMES               SIZE
-260ab0830d70        docker-spring-boot   "java -jar docker-sp…"   About a minute ago   Up About a minute   0.0.0.0:8085->8085/tcp   hardcore_bardeen    32.8kB (virtual 75
-2MB)
+260ab0830d70        docker-spring-boot   "java -jar docker-sp…"   About a minute ago   Up About a minute   0.0.0.0:8085->8085/tcp   hardcore_bardeen    32.8kB (virtual 752MB)
 
 ```
 
