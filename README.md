@@ -42,6 +42,12 @@ Run Docker container
 docker run -p 8085:8085 docker-spring-boot
 ```
 
+Test that the [REST server](http://localhost:8085/rest/docker/hello/) is returning correctly
+
+```
+    Hello Youtube
+```
+
 Run Docker container
 
 ```
