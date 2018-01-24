@@ -12,11 +12,7 @@ git clone https://github.com/JesseGinnever/docker-spring-boot-seed.git
 
 ### Install Docker
 
-Before we start testing, we must install Docker
-
-```
-https://docs.docker.com/engine/installation/
-```
+Before we start testing, we must install [Docker](https://docs.docker.com/engine/installation/)
 
 ### Starting Server
 
